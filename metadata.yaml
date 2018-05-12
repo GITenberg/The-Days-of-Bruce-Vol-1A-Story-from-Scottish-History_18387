@@ -1,0 +1,31 @@
+_repo: The-Days-of-Bruce-Vol-1A-Story-from-Scottish-History_18387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aguilar, Grace
+    birthdate: 1816
+    deathdate: 1847
+    gutenberg_agent_id: '4336'
+    url: http://www.gutenberg.org/2009/agents/4336
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Aguilar
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- Robert I, 1306-1329 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Robert I, King of Scots, 1274-1329 -- Fiction'
+title: 'The Days of Bruce  Vol 1
+
+  A Story from Scottish History'
+url: http://www.gutenberg.org/ebooks/18387
