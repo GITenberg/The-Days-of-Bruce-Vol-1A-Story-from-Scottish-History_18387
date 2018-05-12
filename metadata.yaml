@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4336
     wikipedia: http://en.wikipedia.org/wiki/Grace_Aguilar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18387#The-Days-of-Bruce-Vol-1A-Story-from-Scottish-History
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
